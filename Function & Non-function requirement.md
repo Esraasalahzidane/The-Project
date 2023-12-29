@@ -11,9 +11,9 @@ Job seeker can search for his job title, or any other job and he can filter the 
 Job seekers can apply for any job by submitting job applications and uploading their CV’s.
 ## 1.6 ATS
 The system has its ATS system to help employees to filter CVs and choose best of them.
-##  1.7 Make an Appointment with the candidate 
+##  1.7 Make an appointment with the candidate 
 The Employer make an appointment with the candidate whom he has selected by mark application as ready for interview or rejected.
-##  1.8 communicate with the candidate
+##  1.8 Communicate with the candidate
 The Employer communicate with the candidates who has selected.
 # 2.Non-Functional Requirements
 ## 2.1  Performance
