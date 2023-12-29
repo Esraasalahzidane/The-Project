@@ -2,7 +2,7 @@
 ## 1.1 User Registration and Authentication   
 User must register by his personal information like his name, mobile, address and email. Then verify his account by email, and he must specify if he is an employee or job seeker.
 ## 1.2 User Profile
-User can add his name, address, email, mobile, photo and his job title to his profile, and he can upload his CV also to the profile.
+Job seeker can add his name, address, email, mobile, photo and his job title to his profile, and he can upload his CV also to the profile.
 ## 1.3 Job Posting
 Employees can post jobs and specify description, requirements, and skills for these jobs.
 ## 1.4 Job Search 
