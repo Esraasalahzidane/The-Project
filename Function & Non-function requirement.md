@@ -4,19 +4,22 @@
 ### 1.2 User verify his account by email, and he must specify if he is an employee or job seeker.
 ## 2 Manage Profile
 ### 2.1 Job seeker can add his name, address, email, mobile, photo and his job title to his profile.
-### 2.2 Job seeker can upload his CV also to the profile.
+### 2.2 Job seeker can upload his CV  to the profile.
 ## 3 Job Posting
 ### 3.1 Employees can post jobs and specify description, requirements, and skills for these jobs.
-## 1.4 Job Search 
-Job seeker can search for his job title, or any other job and he can filter the jobs by date post, experience, and job type.
-## 1.5 Apply Job
-Job seekers can apply for any job by submitting job applications and uploading their CV’s.
-## 1.6 ATS
-The system has its ATS system to help employees to filter CVs and choose best of them.
-##  1.7 Make an appointment with the candidate 
-The Employer make an appointment with the candidate whom he has selected by mark application as ready for interview or rejected.
-##  1.8 Communicate with the candidate
-The Employer communicate with the candidates who has selected.
+## 4 Job Search 
+### 4.1 Job seeker search for his job title, or any other job and he can filter the jobs by date post, experience, and job type.
+## 5 Apply Job
+### 5.1 Job seekers can apply for any job by submitting job applications
+### 5.2 Job seekers uploading their CV’s.
+## 6 ATS
+### 6.1 The system has its ATS system to help employees to filter CVs.
+### 6.2 The system has its ATS system to help employees to choose best of them.
+### 6.3 If the Employer want to make the system choose best the system will choose all applicants 
+## 7 Make an appointment with the candidate 
+### 7.1 The Employer make an appointment with the candidate whom he has selected by mark application as ready for interview or rejected.
+## 8 Communicate with the candidate
+### 8.1 The Employer communicate with the candidates who has selected.
 # 2.Non-Functional Requirements
 ## 2.1  Performance
 Response Time: Specify the maximum acceptable time for the system to respond to user interactions.
