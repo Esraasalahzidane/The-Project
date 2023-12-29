@@ -23,19 +23,19 @@
 ### 8.1 The Employer communicate with the candidates who has selected.
 # 2.Non-Functional Requirements
 ## 2.1  Performance
-Response Time: Specify the maximum acceptable time for the system to respond to user interactions.
+### Response Time: Specify the maximum acceptable time for the system to respond to user interactions.
 ## 2.2  Scalability
-Load Balancing: If applicable, describe how the system will distribute incoming traffic across multiple servers to ensure balanced load.
-Database Scalability: Outline the strategy for scaling the database to accommodate increased data and user growth.
+### Load Balancing: If applicable, describe how the system will distribute incoming traffic across multiple servers to ensure balanced load.
+### Database Scalability: Outline the strategy for scaling the database to accommodate increased data and user growth.
 ## 2.3 Security
-Authentication and Authorization: Specify requirements for user authentication and authorization mechanisms to ensure that only authorized users can access certain features or data.
+### Authentication and Authorization: Specify requirements for user authentication and authorization mechanisms to ensure that only authorized users can access certain features or data.
 ## 2.4 Usability
-User Interface Responsiveness: Specify the expected responsiveness and user experience of the system's interfaces.
-Accessibility: Ensure that the system is designed to be accessible to users with disabilities, conforming to relevant accessibility standards.
+### User Interface Responsiveness: Specify the expected responsiveness and user experience of the system's interfaces.
+### Accessibility: Ensure that the system is designed to be accessible to users with disabilities, conforming to relevant accessibility standards.
 ## 2.5  Maintainability
-Code Maintainability: Specify coding standards and practices that facilitate ease of maintenance for developers.
+### Code Maintainability: Specify coding standards and practices that facilitate ease of maintenance for developers.
 ## 2.6 Documentation
-Documentation: Describe the level of documentation required for the codebase, APIs, and system architecture.
+### Documentation: Describe the level of documentation required for the codebase, APIs, and system architecture.
  
 
 
