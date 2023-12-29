@@ -1,4 +1,4 @@
-##1.Functional Requirements
+## 1.Functional Requirements
 # 1.1 User Registration and Authentication   
 User must register by his personal information like his name, mobile, address and email. Then verify his account by email, and he must specify if he is an employee or job seeker.
 # 1.2 User Profile
@@ -15,10 +15,10 @@ The system has its ATS system to help employees to filter CVs and choose best of
 The Employer make an appointment with the candidate whom he has selected by mark application as ready for interview or rejected.
 #  1.8 communicate with the candidate
 The Employer communicate with the candidates who has selected.
-##2.Non-Functional Requirements
-#2.1  Performance
+## 2.Non-Functional Requirements
+# 2.1  Performance
 Response Time: Specify the maximum acceptable time for the system to respond to user interactions.
-#2.2  Scalability
+# 2.2  Scalability
 Load Balancing: If applicable, describe how the system will distribute incoming traffic across multiple servers to ensure balanced load.
 Database Scalability: Outline the strategy for scaling the database to accommodate increased data and user growth.
 # 2.3 Security
