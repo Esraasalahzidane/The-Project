@@ -7,8 +7,9 @@
 ### 2.2 Job seeker can upload his CV  to the profile.
 ## 3 Job Posting
 ### 3.1 Employees can post jobs and specify description, requirements, and skills for these jobs.
+### 3.2 he can filter the jobs by date post, experience, and job type.
 ## 4 Job Search 
-### 4.1 Job seeker search for his job title, or any other job and he can filter the jobs by date post, experience, and job type.
+### 4.1 Job seeker search for his job title, or any other job.
 ## 5 Apply Job
 ### 5.1 Job seekers can apply for any job by submitting job applications
 ### 5.2 Job seekers uploading their CV’s.
