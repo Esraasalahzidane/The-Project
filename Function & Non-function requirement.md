@@ -14,9 +14,8 @@
 ### 5.1 Job seekers can apply for any job by submitting job applications
 ### 5.2 Job seekers uploading their CV’s.
 ## 6 ATS
-### 6.1 The system has its ATS system to help employees to filter CVs.
-### 6.2 The system has its ATS system to help employees to choose best of them.
-### 6.3 If the Employer want to make the system choose best the system will choose all applicants 
+### 6.1 The system has its ATS system to help employees to filter CVs and choose best of them.
+### 6.2 If the Employer doesn't want to make the system choose best the system will choose all applicants 
 ## 7 Make an appointment with the candidate 
 ### 7.1 The Employer make an appointment with the candidate whom he has selected by mark application as ready for interview or rejected.
 ## 8 Communicate with the candidate
