@@ -1,6 +1,6 @@
 # 1.Functional Requirements
 ## 1.1 User Registration and Authentication   
-User must register by his personal information like his name, mobile, address and email. Then verify his account by email, and he must specify if he is an employee or job seeker.
+User(Job seeker or The Employer) must register by his personal information like his name, mobile, address and email. Then verify his account by email, and he must specify if he is an employee or job seeker.
 ## 1.2 User Profile
 Job seeker can add his name, address, email, mobile, photo and his job title to his profile, and he can upload his CV also to the profile.
 ## 1.3 Job Posting
