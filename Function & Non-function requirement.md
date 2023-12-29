@@ -3,11 +3,11 @@
 ### 1.1 User(Job seeker or The Employer) must register by his personal information like his name, mobile, address and email. 
 ### 1.2 User verify his account by email, and he must specify if he is an employee or job seeker.
 ## 2 Manage Profile
-### 2.1 Job seeker can add his name, address, email, mobile, photo and his job title to his profile.
-### 2.2 Job seeker can upload his CV  to the profile.
+### 2.1 Job seeker add his name, address, email, mobile, photo and his job title to his profile.
+### 2.2 Job seeker upload his CV  to the profile.
 ## 3 Job Posting
-### 3.1 Employees can post jobs and specify description, requirements, and skills for these jobs.
-### 3.2 he can filter the jobs by date post, experience, and job type.
+### 3.1 Employee can post jobs and specify description, requirements, and skills for these jobs.
+### 3.2 Employee filter the jobs by date post, experience, and job type.
 ## 4 Job Search 
 ### 4.1 Job seeker search for his job title, or any other job.
 ## 5 Apply Job
