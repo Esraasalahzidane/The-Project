@@ -6,7 +6,7 @@
 ### 2.1 Job seeker add his name, address, email, mobile, photo and his job title to his profile.
 ### 2.2 Job seeker upload his CV  to the profile.
 ## 3 Job Posting
-### 3.1 Employer post jobs
+### 3.1 Employer post jobs.
 ### 3.1 Employer specify description, requirements, and skills for each job.
 ## 4 Job Search 
 ### 4.1 Job seeker search for his job title, or any other job.
