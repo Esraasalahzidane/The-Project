@@ -12,7 +12,7 @@
 ### 4.1 Job seeker search for his job title, or any other job.
 ### 4.2 Job seeker filter the jobs by date post, experience, and job type.
 ## 5 Apply Job
-### 5.1 Job seekers can apply for any job by submitting job applications
+### 5.1 Job seekers apply for any job by submitting job applications
 ### 5.2 Job seekers uploading their CV’s.
 ## 6 ATS
 ### 6.1 The system has its ATS system to help employees to filter CVs and choose best of them.
