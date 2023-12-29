@@ -28,7 +28,7 @@ User Interface Responsiveness: Specify the expected responsiveness and user expe
 Accessibility: Ensure that the system is designed to be accessible to users with disabilities, conforming to relevant accessibility standards.
 ## 2.5  Maintainability
 Code Maintainability: Specify coding standards and practices that facilitate ease of maintenance for developers.
-# 2.6 Documentation
+## 2.6 Documentation
 Documentation: Describe the level of documentation required for the codebase, APIs, and system architecture.
  
 
