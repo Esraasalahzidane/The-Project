@@ -33,7 +33,7 @@
 ### User Interface Responsiveness: Specify the expected responsiveness and user experience of the system's interfaces.
 ### Accessibility:The system is designed to be accessible to users with disabilities, conforming to relevant accessibility standards.
 ## 2.5  Maintainability
-### Code Maintainability: Coding standards and practices tfacilitate ease of maintenance for developers.
+### Code Maintainability: Coding standards and practices facilitate ease of maintenance for developers.
 
  
 
