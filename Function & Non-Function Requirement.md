@@ -23,7 +23,7 @@
 ### 8.1 The Employer communicate with the candidates who has selected.
 # 2.Non-Functional Requirements
 ## 2.1  Performance
-### Response Time: Specify the maximum acceptable time for the system to respond to user interactions.
+### Response Time: the maximum acceptable time for the system to respond to user interactions is 10 sec.
 ## 2.2  Scalability
 ### Load Balancing: If applicable, describe how the system will distribute incoming traffic across multiple servers to ensure balanced load.
 ### Database Scalability: Outline the strategy for scaling the database to accommodate increased data and user growth.
