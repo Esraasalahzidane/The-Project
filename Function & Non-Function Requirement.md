@@ -21,6 +21,9 @@
 ### 7.1 The Employer make an appointment with the candidate whom he has selected by mark application as ready for interview or rejected.
 ## 8 Communicate with the candidate
 ### 8.1 The Employer communicate with the candidates who has selected.
+## 9 Modify available job
+### 9.1 The Employer Modify job posting details.
+### 9.2 The Employer inform applicants about changes.
 # 2.Non-Functional Requirements
 ## 2.1  Performance
 ### Response Time: the maximum acceptable time for the system to respond to user interactions is 10 sec.
