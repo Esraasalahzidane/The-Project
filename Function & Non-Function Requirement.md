@@ -26,7 +26,7 @@
 ### 9.2 The Employer inform applicants about changes.
 # 2.Non-Functional Requirements
 ## 2.1  Performance
-### Response Time: the maximum acceptable time for the system to respond to user interactions is 10 sec.
+### Response Time: the maximum acceptable time for the system to respond to user interactions is 1 sec.
 ## 2.2  Scalability
 ### Load Balancing: the system will distribute incoming traffic across multiple servers to ensure balanced load.
 ### Database Scalability: the database to accommodate increased data and user growth is large.
