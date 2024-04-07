@@ -1,0 +1,234 @@
+Team member 
+Esraa Salah Eldeen
+Al-taher Mohammed Al-taher
+
+
+-
+TITLE PAGE CONTENT
+
+NAME OF SYSTEM: Job Application System
+
+DATE: 3/3/2024
+
+Version: 1
+
+Presented To: employer and employee/companies 
+
+Submitted By: Esraa Salah Eldeen & Eltaher Mohammed /companies
+
+REVISION HISTORY
+
+Date	  Author  Distributed to   Version   Description of Change
+3/3/2024	[Esraa Salah Eldeen]	[Employer & Employee]	1.0	Matches title page
+Brief description of change
+TABLE OF CONTENTS
+
+PRODUCT DESCRIPTION
+TEAM DESCRIPTION
+SOFTWARE PROCESS MODEL DESCRIPTION
+PRODUCT DEFINITION
+USER EXPERIENCE WIREFRAMES
+PROJECT ORGANIZATION
+VALIDATION PLAN
+FEASIBILITY STUDY
+CONFIGURATION AND VERSION CONTROL
+TOOLS
+ARCHITECTURE
+1. PRODUCT DESCRIPTION
+
+The Job Application System aims to streamline the recruitment process for both job seekers and employers. It will provide a platform for job seekers to search for job openings, submit applications, and track their application status. Employers will be able to post job listings, review applications, and communicate with applicants.
+
+Potential Audience: Job seekers, employers, HR professionals
+
+Goals:
+
+Simplify the job application process
+Enhance communication between employers and applicants
+Efficiently manage job postings and applications
+Major Product Functionalities:
+
+User registration and profile management
+Job search and filtering
+Application submission and tracking
+Employer account creation and job posting
+Application review and communication tools
+2. TEAM DESCRIPTION
+
+Skills Needed:
+
+Skil             Esraa Salah Eldeen	  Eltaher Mohammed
+Web Development	     ✓	                    ✓	
+Database Design	     ✓		
+UI/UX Design		                     ✓	
+Project Management	                     ✓		
+Subject Matter Expert (SME): HR professional or recruiter with experience in the recruitment process.
+
+Expertise Missing: Legal expertise for compliance with labor laws and regulations.
+
+3. SOFTWARE PROCESS MODEL DESCRIPTION
+
+Agile is chosen for this project to accommodate changing requirements and foster collaboration between team members and stakeholders. Agile allows for iterative development, continuous feedback, and rapid adaptation to evolving needs.
+
+4. PRODUCT DEFINITION
+
+Users and User Environment: Job seekers, employers, and HR professionals accessing the system via web browsers or mobile devices.
+
+Context Diagram: 
+
+Personas: 
+Applicant - Job Seeker:
+
+Description: A professional seeking employment opportunities.
+Needs:
+Ability to easily search and apply for job openings.
+Clear instructions on how to complete the application process.
+Accessible platform for submitting resumes, cover letters, and other relevant documents.
+Visibility into the status of submitted applications and any updates on their progress.
+User-friendly interface for creating and managing their profile.
+
+Employer - Hiring Manager:
+
+Description: Individuals responsible for sourcing, screening, and selecting candidates for job positions.
+Needs:
+Efficient tools for posting job openings and managing job listings.
+Capability to review and evaluate applicant profiles and materials.
+Communication features to schedule interviews, provide feedback, and coordinate with team members.
+Collaboration functionalities to share candidate evaluations and notes with other stakeholders.
+Analytics and reporting capabilities to track recruitment metrics and assess the effectiveness of hiring processes.
+
+User Stories:
+Applicant Stories:
+
+As an applicant, I want to easily search for job openings based on my preferences and qualifications.
+As an applicant, I want to create a profile with my personal and professional information to streamline the application process.
+As an applicant, I want to submit my resume, cover letter, and other relevant documents seamlessly when applying for a job.
+As an applicant, I want to receive notifications and updates on the status of my applications, including invitations for interviews or rejections.
+As an applicant, I want to be able to track my application history and view feedback from recruiters or hiring managers.
+
+Employer Stories:
+
+As a Employer, I want to post job openings with detailed descriptions and Employers to attract qualified candidates.
+As a Employer, I want to review applicant profiles and materials efficiently to identify suitable candidates for the position.
+As a Employer, I want to communicate with applicants to schedule interviews, provide feedback, and manage the hiring process effectively.
+As a Employer, I want to collaborate with team members to share candidate evaluations, discuss hiring decisions, and streamline the recruitment workflow.
+As a Employer, I want to analyze recruitment metrics and generate reports to assess the effectiveness of our hiring strategies and processes.
+
+High Level Use Cases: 
+
+Use Case Descriptions: 
+
+5. USER EXPERIENCE WIREFRAMES
+
+1.Home Page:
+
+A simple landing page showcasing the company logo and navigation options for applicants to explore job openings, log in, or create a new account.
+
+2.Job Search:
+
+A search interface allowing applicants to enter keywords, location, and filters to browse available job opportunities.
+
+3.Job Listing:
+
+A list of job openings with brief descriptions, including options to apply, view details, and save for later.
+Job Details:
+
+Detailed information about a specific job opening, including requirements, responsibilities, and application instructions.
+
+4.Application Form:
+
+An intuitive form for applicants to fill out with their personal information, upload documents (resume, cover letter), and answer specific questions related to the job.
+
+5.Profile Management:
+
+A user profile page where applicants can view and edit their personal details, track their application history, and manage saved jobs.
+Notifications:
+
+A section for applicants to receive notifications about the status of their applications, interview invitations, and other updates.
+Recruiter Dashboard:
+
+An interface for recruiters to manage job postings, review applications, schedule interviews, and collaborate with team members.
+Admin Panel:
+
+A dashboard for HR administrators to configure system settings, manage user accounts, generate reports, and monitor recruitment analytics.
+6. PROJECT ORGANIZATION
+
+Matrix of Responsibilities:
+
+Web Development: Esraa Salah Eldeen
+Database Design: Esraa Salah Eldeen
+UI/UX Design: Eltaher Mohammed
+Project Management: Eltaher Mohammed
+PERT / Gantt Chart: 
+
+
+7. VALIDATION PLAN
+
+Test Strategy: Comprehensive testing of all functionalities to ensure reliability, usability, and security.
+
+Definition of Done: All features implemented, tested, and approved by stakeholders.
+
+Success Criteria: System operates smoothly, meets user requirements, and improves efficiency in the recruitment process.
+
+8. FEASIBILITY STUDY
+
+Risk Identification: Technical challenges, changing requirements, data security vulnerabilities.
+
+Risk Prioritization:
+ 
+Data Security Breach:
+
+The unauthorized access to sensitive applicant data, leading to potential privacy violations and reputational damage.
+System Downtime:
+
+The risk of the application system being unavailable due to technical issues or maintenance, resulting in lost opportunities for both applicants and recruiters.
+Poor User Experience:
+
+Issues with the user interface or application process leading to dissatisfaction among applicants, potentially deterring them from completing their applications or applying in the future.
+Legal and Compliance Concerns:
+
+Non-compliance with data protection regulations, equal opportunity employment laws, or other legal requirements, exposing the organization to fines, lawsuits, or damage to its reputation.
+Inadequate Applicant Screening:
+
+Failure to properly screen applicants, resulting in the potential hiring of unqualified candidates or overlooking qualified ones, leading to productivity losses and potential risks to the organization.
+Insufficient Scalability:
+
+The inability of the system to handle a large volume of applicants during peak periods, causing slowdowns or crashes and impacting recruitment timelines.
+Integration Challenges:
+
+Difficulties in integrating the job application system with existing HR systems, leading to data inconsistencies, inefficiencies, and potential errors in the recruitment process.
+Dependency on Third-party Services:
+
+Reliance on third-party services for critical functionalities such as background checks or document verification, with the risk of service disruptions or data breaches affecting the recruitment process.
+Lack of Disaster Recovery Plan:
+
+The absence of a robust disaster recovery plan in case of system failures or data loss, leading to prolonged downtime and loss of critical data.
+Inadequate Training and Support:
+
+Lack of proper training and support for recruiters and HR administrators in using the system effectively, resulting in errors, delays, and suboptimal utilization of the platform.
+Prioritizing these risks enables the organization to allocate resources efficiently and implement appropriate risk management strategies to mitigate potential threats to the job application system.
+
+Risk Mitigation: Regular reviews, contingency plans, encryption protocols, stakeholder involvement.
+
+Prototype: Basic system functionality for initial testing and feedback.
+
+9. CONFIGURATION AND VERSION CONTROL
+
+Process: Git version control system with branching and merging strategies.
+
+Attributes: Commit messages, branching conventions, release tagging.
+
+10. TOOLS
+
+Programming Languages: C#, SQL
+Frameworks: React, Node.js, Express.js
+Database: MySQL
+Version Control: Git
+Project Management: Jira
+Design: C#
+11. ARCHITECTURE
+
+Frontend: React for dynamic UI components
+Backend: Node.js and Express.js for server-side logic
+Database: MySQL for data storage
+Deployment: Docker containers managed with Kubernetes
+
